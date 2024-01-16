@@ -1,4 +1,4 @@
-# QUT-Capstone-2023
+# Members Only
 
 Welcome! This is the repository where work on the `MembersOnly` application will take place.
 
@@ -20,9 +20,9 @@ Some example screenshots:
 ![Landing Page](/app/public/LandingPage.png)
 ![Steve Club](/app/public/SteveClub.png)
 
-# Deployment and Links
+# How to Use The App
 
-We successfully deployed this app to Vercel. Link [here](https://qut-capstone-2023.vercel.app/).
+We successfully deployed this app to Vercel. Link [here](https://qut-capstone-2023.vercel.app/). Connect your Web3 wallet to gain access to our site. 
 
 Connect with us on Discord with the invitation link [here](https://discord.gg/Mz3VGaekfW).
 
@@ -39,12 +39,10 @@ To build `MembersOnly`, we have:
 7. Used **MongoDB** for storing off-chain data (users Username, etc.)
 8. Deployed contracts to **Ethereum Goerli Testnet**
 
-# Repository Structure
+# Solution Design
 
-### app/
+## Architecture Diagram
 
-The app folder contains the code for the NextJS application. Read more about `/app` [here](https://github.com/Labrys-Group/QUT-Capstone-2023/blob/main/app/README.md).
+## Sequence Diagram
 
-### contracts/
 
-The contracts folder contains a hardhat project - where all smart contract development and testing will take place. Read more about `/contracts` [here](https://github.com/Labrys-Group/QUT-Capstone-2023/blob/main/contracts/README.md).
