@@ -1,12 +1,11 @@
 # Members Only
 
-Welcome! This is the repository where work on the `MembersOnly` application will take place.
+Welcome! MembersOnly is a web application that provides token-gated access to members-only content using Ethereum NFTs as a key.
 
-# The App
+![Landing Page](/app/public/LandingPage.png)
+![Steve Club](/app/public/SteveClub.png)
 
-MembersOnly is a web application that provides token-gated access to members-only content using Ethereum NFTs as a key.
-
-Here are the key features:
+# Key Features
 
 1. Connect and authenticate user's wallet using Sign-In with Ethereum.
 2. Allow user to mint non-fungible tokens (NFTs), paying in Ethereum.
@@ -15,12 +14,7 @@ Here are the key features:
 5. Connect Spotify account and access public playlists.
 6. Connect Discord account and access private channels via Collab.Land integration.
 
-Some example screenshots:
-
-![Landing Page](/app/public/LandingPage.png)
-![Steve Club](/app/public/SteveClub.png)
-
-# How to Use The App
+# Getting Started
 
 We successfully deployed this app to Vercel. Link [here](https://qut-capstone-2023.vercel.app/). Connect your Web3 wallet to gain access to our site. 
 
@@ -42,7 +36,9 @@ To build `MembersOnly`, we have:
 # Solution Design
 
 ## Architecture Diagram
+![Architecture Diagram](/app/public/ArchitectureDiagram.png)
 
 ## Sequence Diagram
+![Sequence Diagram](/app/public/SequenceDiagram.png)
 
 
