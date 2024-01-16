@@ -22,6 +22,10 @@ Connect with us on Discord with the invitation link [here](https://discord.gg/Mz
 
 # Overview of Tech Stack
 
+Development languages: 
+* Typescript >4.9.5 (Node.js >18.15.10)
+* Solidity >0.8.2
+
 To build `MembersOnly`, we have:
 
 1. Used **NextJS** for front and back end
